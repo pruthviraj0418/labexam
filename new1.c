@@ -1,3 +1,4 @@
+//comment added
 #include<stdio.h>
 #define MAX 5
 struct stack{
